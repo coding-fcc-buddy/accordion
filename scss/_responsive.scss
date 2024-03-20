@@ -1,0 +1,50 @@
+@media only screen and (max-width: 1400px) {
+    .container {
+      // background-color: black;
+
+      .wrapper{
+            width: 42%;
+        }
+    }
+    
+  }
+@media only screen and (max-width: 1070px) {
+    .container {
+      // background-color: lightblue;
+
+      .wrapper{
+            width: 50%;
+        }
+    }
+    
+  }
+  @media only screen and (max-width: 870px) {
+    .container {
+    //   background-color: blue;
+
+      .wrapper{
+            width: 65%;
+        }
+    }
+    
+  }
+  @media only screen and (max-width: 730px) {
+    .container {
+      // background-color: red;
+
+      .wrapper{
+            width: 80%;
+        }
+    }
+    
+  }
+  @media only screen and (max-width: 600px) {
+    .container {
+    //   background-color: green;
+
+      .wrapper{
+            width: 90%;
+        }
+    }
+    
+  }

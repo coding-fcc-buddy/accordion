@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Work Sans", sans-serif;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mg-top{
+    margin-top: 25px;
+}
+// .a{
+//     display: none;
+//     color: red;
+// }
+// .show{
+//     display: block;
+// }
